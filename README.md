@@ -1,0 +1,1 @@
+Real Time searching. You can access anything from the database by searching through search Bar.
